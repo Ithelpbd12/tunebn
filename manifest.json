@@ -1,0 +1,35 @@
+{
+  "background_color": "#ffffff",
+  "description": "প্রযুক্তির সুরে মেতে উঠতে আমাদের এই ব্লগ সাইট।\nআমাদের ব্লগে প্রতিনিয়ত প্রযুক্তি নিয়ে পোষ্ট করা হয়ে থাকে সাথে বিভিন্ন ওয়েবসাইট ডিজাইনিং নিয়ে পোষ্ট করে থাকি।\nআমরা বিনামূল্যে ওয়াপকিজ সহ অন্যান্য সাইটের থিম দিয়ে থাকি।\nআপনাকে আবার আমাদের সাইটে স্বাগতম জানাচ্ছি।",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "টিউন বাংলা",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "টিউন বাংলা",
+  "start_url": "/",
+  "theme_color": "#3cc091",
+  "categories": [],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "https://tunebn.blogspot.com/favicon.ico",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhNgmZHLkjgZbxXndT_zPLhp53SPXDV3UaL0OEAR2UwlBnY8QAZvOcY5Y-N53SVZPzxis0usdH_rBd5N7d5dLUGT_mnn3kiKzjUNePa2hAE5A3jmrIGXs4MenBrxL5-4nwV6b-QZaPOS0TappGMTE16mzAqtOXQqPJhV3ioU0blDYMYBVyJglImwmR2RA=s180",
+      "type": "image/png",
+      "sizes": "180x180"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-Vh7QNZLA1W8/YVRYpiPyfgI/AAAAAAAAATA/hJxewgMxg_kr9p0Lc5Bcu9W9B5vCESOjwCLcBGAsYHQ/w1600/20210929_180422.jpg",
+      "type": "image/jpeg",
+      "sizes": "480x270"
+    },
+    {
+      "src": "/favicon.ico",
+      "type": "image/x-icon"
+    }
+  ],
+  "shortcuts": []
+}
